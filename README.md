@@ -98,6 +98,10 @@ Tabel `album` memiliki foreign key `id_genre` yang terhubung dengan tabel `genre
 
 ![Halaman Album](dokumentasi/halaman-album.png)
 
+### 4.1 Halaman Album
+
+![Halaman Album](dokumentasi/halaman-album1.png)
+
 ### 5. Form Tambah Data
 
 ![Form Tambah Data](dokumentasi/form-tambah.png)
