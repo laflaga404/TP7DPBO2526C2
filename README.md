@@ -1,4 +1,4 @@
-# TP7DPBO2526C2
+r# TP7DPBO2526C2
 
 ## Janji
 
@@ -106,6 +106,15 @@ Tabel `album` memiliki foreign key `id_genre` yang terhubung dengan tabel `genre
 
 ![Form Edit Data](dokumentasi/form-edit.png)
 
+### 7. Contoh CRUD (delete)
 
+![Delete](dokumentasi/delete.png)
 
+### 8. Contoh CRUD (Update)
+
+![update](dokumentasi/update.png)
+
+### 9. Contoh CRUD (Create)
+
+![add](dokumentasi/add.png)
    `http://localhost/JPop_Album_Catalog/`
