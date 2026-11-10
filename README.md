@@ -117,4 +117,3 @@ Tabel `album` memiliki foreign key `id_genre` yang terhubung dengan tabel `genre
 ### 9. Contoh CRUD (Create)
 
 ![add](dokumentasi/add.png)
-   `http://localhost/JPop_Album_Catalog/`
